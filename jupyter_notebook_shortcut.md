@@ -1,4 +1,4 @@
-jupyter notebook shortcut(mac)
+## jupyter notebook shortcut(mac)
 ⌘: Command
 ⌃: Control
 ⌥: Option
