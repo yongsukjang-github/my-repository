@@ -1,14 +1,24 @@
-## jupyter notebook shortcut(mac)
-⌘: Command
-⌃: Control
-⌥: Option
-⇧: Shift
-↩: Return
-␣: Space
-⇥: Tab 
+# jupyter notebook shortcut(mac)
 
-##### 커맨드 모드(esc키를 누를 경우 사용 가능한 단축키) #####
+-----
 
+사용키  
+
+```markdown
+⌘: Command  
+⌃: Control  
+⌥: Option  
+⇧: Shift  
+↩: Return  
+␣: Space  
+⇥: Tab  
+```
+
+-----
+
+### 커맨드 모드(esc키를 누를 경우 사용 가능한 단축키)
+
+```markdown
  F: 텍스트 찾기 및 변경
 
  ↩: 에디트모드로 변경
@@ -90,9 +100,11 @@ I,I: 커널 중지
 ⇧␣: 스크롤 업
 
  ␣: 스크롤 다운
+```
 
-##### 에디트 모드(Enter키를 누를 경우 사용 가능한 단축키) #####
+## 에디트 모드(Enter키를 누를 경우 사용 가능한 단축키)
 
+```markdown
 ⇥: 코드 자동완성 혹은 들여쓰기 입력
 
 ⇧⇥: 코드에 대한 설명 말풍선
@@ -150,3 +162,4 @@ Esc: 커맨드 모드로 변경
 ⌃⇧Minus: 커서를 기준으로 셀을 분리
 
 ⌘S: 저장
+```
