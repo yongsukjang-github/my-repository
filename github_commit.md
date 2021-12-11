@@ -1,11 +1,9 @@
 visual studio code에서 github commit 하기
 
-1. github repository 만들기
-
-initialize repository 클릭  
-commit할 파일 '+' 클릭  
-상단 'v' 클릭  
-메모 입력 > enter  
+1. initialize repository 클릭  
+2. commit할 파일 '+' 클릭  
+3. 상단 'v' 클릭  
+4. 메모 입력 > enter  
 
 ```terminal
 git remote add origin —http~
@@ -14,5 +12,7 @@ git add .
 git commit -m “comment”
 git push
 ```
-  
+
+```terminal  
 git remote -v
+```
