@@ -13,6 +13,12 @@ git commit -m “comment”
 git push
 ```
 
+```terminal
+git status
+git add 파일명
+git commit -m '메세지명'
+```
+
 ```terminal  
 git remote -v
 ```
