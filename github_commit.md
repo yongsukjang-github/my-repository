@@ -13,6 +13,8 @@ git commit -m “comment”
 git push
 ```
 
+- 특정 파일 commit
+
 ```terminal
 git status
 git add 파일명
